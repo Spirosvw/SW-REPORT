@@ -47,5 +47,18 @@
 ## Νέα ομαδοποίηση ανά ποσό δωρεάς
 ![](projects/2015103/image4.png)
 
+## Ιστορικό Δωρητών
+![](projects/2015103/history.png)
+
+## Ιστοσελίδα με Participants
+![](projects/2015103/Participants.png)
+
+## Ιστοσελίδα με Contributors
+![](projects/2015103/Index.png)
+
+
+
+
+
 
 
