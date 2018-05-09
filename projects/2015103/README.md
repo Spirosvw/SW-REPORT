@@ -36,25 +36,25 @@
 * Για το τελευταίο κομμάτι του παραδοτέου δημιούργησα μία νέα επιλογή ομαδοποιήσης των δεδομένων. Την ονόμασα 'Split by the amount of the donation' και ουσιαστικά ομαδοποιεί τα δεδομένα με βάσει το ποσό της δωρεάς που έχει κάνει ο κάθε δωρητής.
 
 ## Αλλαγή χρωμάτων
-![](projects/2015103/image1.png)
+![](image1.png)
 
 ## Μεγέθυνση κειμένου
-![](projects/2015103/image2.png)
+![](image2.png)
 
 ## Αποτέλεσμα αναζήτησης
-![](projects/2015103/image3.png)
+![](image3.png)
 
 ## Νέα ομαδοποίηση ανά ποσό δωρεάς
-![](projects/2015103/image4.png)
+![](image4.png)
 
 ## Ιστορικό Δωρητών
-![](projects/2015103/history.png)
+![](history.png)
 
 ## Ιστοσελίδα με Participants
-![](projects/2015103/Participants.png)
+![](Participants.png)
 
 ## Ιστοσελίδα με Contributors
-![](projects/2015103/Index.png)
+![](Index.png)
 
 
 
